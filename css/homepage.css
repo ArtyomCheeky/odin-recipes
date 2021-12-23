@@ -18,7 +18,7 @@ header {
 }
 
 .hero {
-    display: block;
+    /* display: block; */
     height: 600px;
     width: 1000px;
     background-color: lightskyblue;
@@ -65,7 +65,7 @@ h1 {
       height: 200px;
       width: 200px;
   }
-  
+
   div a {
       margin-top: 20px;
   }
