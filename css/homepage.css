@@ -18,13 +18,13 @@ header {
 }
 
 .hero {
-    /* display: block; */
+    display: block;
     height: 600px;
     width: 1000px;
     background-color: lightskyblue;
     padding-right: 23.57%;
     padding-left: 23.57%;
-    justify-content: space-evenly;
+    /* justify-content: space-evenly; */
 }
 
 .container {
