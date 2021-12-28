@@ -1,6 +1,7 @@
 html {
     font-family: Helvetica, Arial,  sans-serif;
 }
+
 body {
     background-color: #98c7ec;
 }
@@ -23,6 +24,7 @@ header {
     color: white;
     text-decoration: none;
 }
+
 .hero-responsive {
     text-align: center;
     max-width: 600;
@@ -30,6 +32,7 @@ header {
     height: auto;
     width: auto;
 }
+
 .hero {
     height: 600px;
     width: 1000px;
@@ -46,7 +49,6 @@ header {
     margin-right: -8px;
     margin-left: -7px;
     margin-top: -2px;
-
 }
 
 h1 {
@@ -83,5 +85,16 @@ h1 {
   }
 
   div a {
-      margin-top: 20px;
+    text-decoration: none;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    background-color: #0787ff;
+    color: white;
+    font-weight: bold;
+    padding-bottom: 4px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 6px;
+    border-radius: 10px;
   }
