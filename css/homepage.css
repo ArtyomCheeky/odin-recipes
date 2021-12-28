@@ -84,7 +84,7 @@ h1 {
       width: 200px;
   }
 
-  div a {
+  .button-link {
     text-decoration: none;
     text-align: center;
     margin: auto;
@@ -97,4 +97,9 @@ h1 {
     padding-right: 6px;
     padding-top: 6px;
     border-radius: 10px;
+  }
+
+  a img {
+      border-radius: 10px;
+      box-shadow: 10px 10px 20px #616161;
   }
